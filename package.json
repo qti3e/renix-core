@@ -1,0 +1,10 @@
+{
+  "name": "renix-core",
+  "version": "1.0.0",
+  "description": "A data provider manager",
+  "main": "renix.js",
+  "repository": "https://github.com/qti3e/renix-core",
+  "author": "Parsa Ghadimi <me@qti3e.com>",
+  "license": "MIT",
+  "private": true
+}
